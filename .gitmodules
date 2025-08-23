@@ -1,0 +1,9 @@
+[submodule "country-hook"]
+	path = country-hook
+	url = https://github.com/Paul-Wisdom/country_hook.git
+[submodule "routed-anecdotes"]
+	path = routed-anecdotes
+	url = https://github.com/Paul-Wisdom/routed_anecdotes.git
+[submodule "ultimate-hooks"]
+	path = ultimate-hooks
+	url = https://github.com/Paul-Wisdom/ultimate-hooks.git
