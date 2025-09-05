@@ -7,3 +7,11 @@
 [submodule "ultimate-hooks"]
 	path = ultimate-hooks
 	url = https://github.com/Paul-Wisdom/ultimate-hooks.git
+[submodule "BlogList-frontend"]
+	path = BlogList-frontend
+	url = https://github.com/Paul-Wisdom/BlogList-frontend.git
+	branch = Part7
+[submodule "BlogList"]
+	path = BlogList
+	url = https://github.com/Paul-Wisdom/BlogList.git
+	branch = Part7
